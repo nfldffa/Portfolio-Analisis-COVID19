@@ -7,9 +7,9 @@ Proyek ini bertujuan untuk menganalisis dan membandingkan dampak pandemi COVID-1
 Dataset yang digunakan adalah `country_wise_latest.csv` yang bersumber dari Kaggle. Dataset ini berisi data agregat terakhir per negara.
 
 ## Temuan Utama
-- Negara X, Y, dan Z merupakan 3 negara dengan kasus terkonfirmasi tertinggi.
-- Meskipun Negara A memiliki kasus yang tinggi, Negara B menunjukkan tingkat kematian (fatality rate) yang lebih mengkhawatirkan.
-- Regional WHO Eropa memiliki total kasus terkonfirmasi paling banyak dibandingkan regional lainnya.
+- Negara US, Brazil, dan India merupakan 3 negara dengan kasus terkonfirmasi tertinggi.
+- Meskipun Negara US memiliki kasus yang tinggi, Negara Yemen menunjukkan tingkat kematian (fatality rate) yang lebih mengkhawatirkan.
+- Regional WHO Americas memiliki total kasus terkonfirmasi paling banyak dibandingkan regional lainnya.
 
 ## Tools yang Digunakan
 - Python
